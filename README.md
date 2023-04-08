@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Pravin Pawar
 
 <hr/>
-
+A passionate full-stack web developer from India who loves to build amazing projects and work in a team.
+I dream to get recognized globally by something that I can do for my society.
 <!--
 **Pravin7038/Pravin7038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
