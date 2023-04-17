@@ -34,7 +34,6 @@ I dream to get recognized globally by something that I can do for my society.
 
 https://github-readme-streak-stats.herokuapp.com/?user=Pravin7038
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pravin7038&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **Pravin7038/Pravin7038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
