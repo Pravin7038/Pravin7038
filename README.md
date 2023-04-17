@@ -19,6 +19,8 @@ I dream to get recognized globally by something that I can do for my society.
 
 ### :hammer_and_wrench: Languages and Tools :
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pravin7038&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
