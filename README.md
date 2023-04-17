@@ -3,8 +3,7 @@
 <hr/>
 
 
-### A passionate full-stack web developer from India who loves to build amazing projects and work in a team.
-### I dream to get recognized globally by something that I can do for my society.
+## A passionate full-stack web developer from India who loves to build amazing projects and work in a team. I dream to get recognized globally by something that I can do for my society.
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
