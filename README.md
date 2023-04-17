@@ -6,16 +6,16 @@
 A passionate full-stack web developer from India who loves to build amazing projects and work in a team.
 I dream to get recognized globally by something that I can do for my society.
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
----
+<hr/>
 
 ### :hammer_and_wrench:PortFolio
 
 
 
----
+<hr/>
 
 ### :hammer_and_wrench: Languages and Tools :
 
