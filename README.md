@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pravin7038.github.io/](https://pravin7038.github.io/)
 
-- 💬 Ask me about **Mearn**
+- 💬 Ask me about **Mern**
 
 - 📫 How to reach me **pravin08pawar@gmail.com**
 <h3 align="left">Portfolio:</h3>
