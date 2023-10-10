@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pravin08pawar@gmail.com**
 <h3 align="left">Portfolio:</h3>
-<a href="https://pravin7038.github.io/">PORTFOLIO</a>
+<a href="https://pravin7038.github.io/" class="button">PORTFOLIO</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pravin-pawar-10279a183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pravin-pawar-10279a183/" height="30" width="40" /></a>
